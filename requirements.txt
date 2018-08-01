@@ -4,4 +4,7 @@ cwltool
 subprocess32
 wes-service
 synapseclient
-
+pandas
+IPython
+future
+bravado
