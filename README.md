@@ -1,4 +1,4 @@
-# Synapse Workflow Orchestrator
+# Workflow Orchestrator
 
 | **Service \ Branch** | **master** | **develop** |
 | -: | - | - |
@@ -6,7 +6,7 @@
 | Test coverage | [![Coverage Status](https://coveralls.io/repos/github/Sage-Bionetworks/synapse-orchestrator/badge.svg?branch=master)](https://coveralls.io/Sage-Bionetworks/synapse-orchestrator?branch=master) | [![Coverage Status](https://coveralls.io/repos/github/Sage-Bionetworks/synapse-orchestrator/badge.svg?branch=develop)](https://coveralls.io/Sage-Bionetworks/synapse-orchestrator?branch=develop) |
 | Docs status | *pending* | *pending* |
 
-This application serves as a "workflow orchestrator" for GA4GH-style workflows, using the Synapse [**Evaluation Services**](http://docs.synapse.org/rest/#org.sagebionetworks.repo.web.controller.EvaluationController) to manage queues and submissions.
+This project coordinates workflows so that they can be queued, sent, and visualized in real-time across multiple WES endpoints/servers.
 
 ## Install and Run an Example
 
