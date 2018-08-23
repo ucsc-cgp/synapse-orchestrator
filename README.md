@@ -2,7 +2,7 @@
 
 This project coordinates workflows so that they can be queued, sent, and visualized in real-time across multiple WES endpoints/servers.
 
-An example of a queue currently running looks like:
+An example of a queue currently running:
 
 [![Travis-CI Build Status](https://github.com/ucsc-cgp/synapse-orchestrator/blob/master/docs/img/screenshot.png)](https://travis-ci.org/Sage-Bionetworks/synapse-orchestrator)
 
