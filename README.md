@@ -4,7 +4,7 @@ This project coordinates workflows so that they can be queued, sent, and visuali
 
 An example of a queue currently running looks like:
 
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+[![Travis-CI Build Status](https://github.com/ucsc-cgp/synapse-orchestrator/blob/master/docs/img/screenshot.png)](https://travis-ci.org/Sage-Bionetworks/synapse-orchestrator)
 
 ## Install and Run an Example
 
