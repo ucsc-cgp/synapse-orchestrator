@@ -2,6 +2,10 @@
 
 This project coordinates workflows so that they can be queued, sent, and visualized in real-time across multiple WES endpoints/servers.
 
+An example of a queue currently running looks like:
+
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+
 ## Install and Run an Example
 
 First, setup and install the following in a virtualenv:
